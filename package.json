@@ -1,0 +1,15 @@
+{
+  "name": "@unclepaul/allcount-adal-auth-module",
+  "version": "1.0.0",
+  "description": "Provides ADAL active directory authentication method",
+  "main": "./adal-auth-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Kotlyar",
+  "license": "MIT",
+  "dependencies": {
+    "@unclepaul/allcountjs": ">=1.28.0",
+    "adal-node": "^0.1.22"
+  }
+}
